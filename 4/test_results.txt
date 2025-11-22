@@ -1,0 +1,19 @@
+--- Hospital Readmission Load Test Results ---
+Total time: 94.65 seconds
+Total requests: 200
+Successful requests: 152
+Failed requests: 48
+Error Rate: 24.00%
+Throughput: 1.61 req/s
+
+--- Latency Percentiles (ms) ---
+p50 (Median): 2462.86 ms
+p75: 2627.17 ms
+p90: 2774.73 ms
+p95: 2874.90 ms
+p99: 3031.31 ms
+Min Latency: 1886.40 ms
+Max Latency: 3046.54 ms
+Average Latency: 2459.85 ms
+
+Задержка 2-3 секунды. К тому же еще часто выскакивают ошибки

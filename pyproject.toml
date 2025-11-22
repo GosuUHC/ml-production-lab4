@@ -1,0 +1,14 @@
+[project]
+version = "1.0.0"
+name = "ml-production-lab4"
+dependencies = [
+    "pandas==2.3.3",
+    "matplotlib==3.10.7",
+    "seaborn==0.13.2",
+    "scikit_learn==1.7.2",
+    "mlflow==3.6.0",
+    "feast==0.57.0",
+    "aiohttp==3.13.2",
+    "evidently==0.7.16",
+    "river==0.22.0",
+]
